@@ -1,0 +1,10 @@
+2026-06-01 09:15:20 [INFO] Application started
+2026-06-01 09:16:05 [INFO] User login successful
+2026-06-01 09:17:10 [ERROR] Database connection failed
+2026-06-01 09:18:25 [WARNING] Low disk space
+2026-06-01 09:19:40 [INFO] Data backup completed
+2026-06-01 09:21:15 [WARNING] High memory usage detected
+2026-06-01 09:22:08 [INFO] User logout successful
+2026-06-01 09:25:33 [ERROR] Unable to write to file
+2026-06-01 09:27:44 [WARNING] Network response is slow
+2026-06-01 09:30:00 [INFO] Application closed
